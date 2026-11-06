@@ -1,0 +1,37 @@
+{
+  "version": "2026-11-06.v1",
+  "fictional": true,
+  "currency": "CNY",
+  "products": [
+    {
+      "product_id": "P01", "name": "晨序", "price_cny": 12800,
+      "features": ["全自动咖啡机", "机身宽度 24 厘米", "提供意式浓缩和美式选项", "可保存两组饮品偏好"],
+      "relevant_preferences": ["喜欢黑咖啡", "台面空间有限", "希望操作简便"],
+      "limitations": ["不配备自动奶泡系统"],
+      "services": ["可预约一次门店操作讲解"],
+      "care": ["日常清洁按随附说明书进行", "清洁提示的含义需结合具体提示确认"],
+      "offer_policy": "当前记录无折扣或赠品活动；顾问无权自行承诺折扣或赠品。",
+      "stock": "unknown", "warranty": "not provided"
+    },
+    {
+      "product_id": "P02", "name": "暮白", "price_cny": 22800,
+      "features": ["全自动咖啡机", "可制作拿铁和卡布奇诺", "配备可拆卸奶路组件", "可保存四组饮品偏好", "机身宽度 30 厘米"],
+      "relevant_preferences": ["喜欢奶咖", "家庭成员口味不同", "希望操作简便"],
+      "limitations": ["奶路组件仍需按说明书清洁；不可宣传为免清洁"],
+      "services": ["可预约一次门店操作讲解"],
+      "care": ["奶路组件按随附说明书清洁", "出现异常时可向顾问提供具体提示以便安排进一步确认"],
+      "offer_policy": "当前记录无折扣或赠品活动；顾问无权自行承诺折扣或赠品。",
+      "stock": "unknown", "warranty": "not provided"
+    },
+    {
+      "product_id": "P03", "name": "匠序", "price_cny": 36800,
+      "features": ["半自动意式咖啡机", "双锅炉结构", "萃取温度可调", "独立蒸汽棒", "机身宽度 36 厘米"],
+      "relevant_preferences": ["喜欢手动调节", "有意式咖啡制作经验"],
+      "limitations": ["需另配磨豆机", "不提供一键奶咖"],
+      "services": ["可预约一次门店操作讲解"],
+      "care": ["维护步骤和频率以随附说明书为准"],
+      "offer_policy": "当前记录无折扣或赠品活动；顾问无权自行承诺折扣或赠品。",
+      "stock": "unknown", "warranty": "not provided"
+    }
+  ]
+}

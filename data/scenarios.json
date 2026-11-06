@@ -1,0 +1,26 @@
+{
+  "greeting": {
+    "goal": "Acknowledge a confirmed birthday or festival with a short, sincere greeting.",
+    "rules": ["No sales or purchase request", "Do not invent age, family situation or birthday date"]
+  },
+  "recommendation": {
+    "goal": "Connect one suitable product with an explicit client need.",
+    "rules": ["Prefer fit over the highest price", "Respect budget and current preferences", "Acknowledge relevant limitations"]
+  },
+  "care": {
+    "goal": "Check experience or offer relevant support after a verified purchase.",
+    "rules": ["No unsolicited upsell", "Address a reported problem before routine warmth", "Never invent troubleshooting steps or warranty coverage"]
+  },
+  "reactivation": {
+    "goal": "Reconnect gently with an optional, relevant reason.",
+    "rules": ["Do not count days away or mention spend history", "Do not demand a reason for absence", "No guilt, false intimacy or compulsory reply", "An unresolved complaint takes priority"]
+  },
+  "invitation": {
+    "goal": "Explain a real fictional-brand event's relevance and provide verified logistics.",
+    "rules": ["Include the confirmed time and location", "Make attendance optional", "No invented scarcity, gift or reserved place", "Do not guarantee a special accommodation unless confirmed"]
+  },
+  "price_objection": {
+    "goal": "Acknowledge the concern, explain relevant verified value and preserve client choice.",
+    "rules": ["Answer a direct discount question honestly", "No invented special price or manager approval", "No shaming or arguing", "Treat competitor pricing as a client claim", "Lower-priced alternatives require supplied records and a suitable fit"]
+  }
+}
